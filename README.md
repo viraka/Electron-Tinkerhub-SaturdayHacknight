@@ -5,9 +5,9 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Ghanashyam [https://github.com/Ghanashyam03]
-2. Harishankar [https://github.com/H4rish4nk4r]
-3. Viraj [https://github.com/viraka]
+1. [Ghanashyam](https://github.com/Ghanashyam03)
+2. [Harishankar](https://github.com/H4rish4nk4r)
+3. [Viraj](https://github.com/viraka)
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
