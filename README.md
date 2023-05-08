@@ -4,7 +4,9 @@
 
 # Personal Diary
 This Project has brought to life an application made using ElectronJs which helps us write Our Personal Diary Writeups easily.🤩🤩
+
 Multiple Accounts can be used on the same machine to allow access to multiple users.😲
+
 It Comes With Hashed passwords so no one can peep into your Diaries.😏😏
  
 ## Team members
