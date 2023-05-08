@@ -28,7 +28,7 @@ Body-parser - 1.20.2
 Bcrypt-5.1.0
 
 ## How to configure
-Install the prerequisites such as node,express,sql2,electron & MySQL DBMS .
+Install the prerequisites such as node, express, sql2, electron & MySQL DBMS .
 
 In MySQL create a database called "**electron**" in which you would want to create two tables **users** and **diary** using:
 ```
