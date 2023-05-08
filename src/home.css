@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, #9796F0, #fbc7d4);
+    background-repeat: round;
+    background-color: rgb(145, 218, 255);
+    background-size: auto;
+    font-family: Century Schoolbook light, Century Gothic, Arial, Helvetica, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(52, 52, 129);
+  }
+  
+  a {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px 2px grey;
+    transition-property: all;
+    transition-duration: 0.5s;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: rgb(158, 125, 204);
+    border-color: transparent;
+    box-shadow: 1px 1px 2px grey;
+  }
+  
