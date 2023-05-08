@@ -19,7 +19,9 @@ It Comes With Hashed passwords so no one can peep into your Diaries.😏😏
 
 ## How it Works ?
 The project involves using HTML,CSS and JavaScript as well as a MySQL Database on the Host Computer to Bring to Life this Diary App.
-Nodejs And ExpressJs Helps us set up localhost on port 5000 is also used to handle Requests(In One JavaScript File- index.js).
+
+Nodejs And ExpressJs Helps us set up localhost on port 5000 and is also used to handle Requests(In One JavaScript File- index.js).
+
 Another Javascript File is used for the Electron Window (main.js) connected to the localhost port.
 
 ## Libraries used
