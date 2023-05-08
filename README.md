@@ -22,9 +22,13 @@ Another Javascript File is used for the Electron Window (main.js) connected to t
 
 ## Libraries used
 Express-4.18.2
+
 MySQL-8.0
+
 Node-18.16.0
+
 Body-parser - 1.20.2
+
 Bcrypt-5.1.0
 
 ## How to configure
