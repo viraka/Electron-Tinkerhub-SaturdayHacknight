@@ -31,15 +31,21 @@ Bcrypt-5.1.0
 Install the prerequisites such as node,express,sql2,electron & MySQL DBMS .
 
 In MySQL create a database called "**electron**" in which you would want to create two tables **users** and **diary** using:
->create table users(userid int PRIMARYKEY,email varchar(2000),password varchar(2000),username varchar(1000));
->create table diary(userid int ,date date, titile varchar(2000),content varchar(2000)); 
+```
+create table users(userid int PRIMARYKEY,email varchar(2000),password varchar(2000),username varchar(1000));
+create table diary(userid int ,date date, titile varchar(2000),content varchar(2000)); 
+```
 sorry for the spelling mistakes :')...
 
 Host the index.js file by using:
->**node index.js**
+```
+**node index.js**
+```
 in the command prompt after you move the current directory to where you have downloaded the project
 
 ## How to Run
 Nothing much left really.. Use:
->**npm start**
+```
+**npm start**
+```
 in the command prompt ats the project directory and you should have your app Open and Ready to Go.
