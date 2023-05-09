@@ -56,4 +56,4 @@ Nothing much left really.. Use:
 ```
 npm start
 ```
-in the command prompt ats the project directory and you should have your app Open and Ready to Go.
+in the command prompt at the project directory and you should have your app Open and Ready to Go.
