@@ -24,7 +24,7 @@ app.whenReady().then(() => {
   })
 
   // Load your Express app in the BrowserWindow
-  mainWindow.loadURL(' https://bacb-2405-201-f003-913b-419-a445-cf78-c4c.ngrok-free.app')
+  mainWindow.loadURL('http://localhost:5000')
 
   // Open DevTools
   mainWindow.webContents.openDevTools()
