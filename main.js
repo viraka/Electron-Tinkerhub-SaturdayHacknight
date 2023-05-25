@@ -24,7 +24,8 @@ app.whenReady().then(() => {
   })
 
   // Load your Express app in the BrowserWindow
-  mainWindow.loadURL('http://localhost:5000/')
+
+ mainWindow.loadURL('http://localhost:5000')
 
   // Open DevTools
   mainWindow.webContents.openDevTools()

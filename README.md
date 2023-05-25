@@ -40,10 +40,10 @@ Install the prerequisites such as node, express, sql2, electron & MySQL DBMS .
 
 In MySQL create a database called "**electron**" in which you would want to create two tables **users** and **diary** using:
 ```
-create table users(userid int PRIMARYKEY,email varchar(2000),password varchar(2000),username varchar(1000));
+create table users(userid int AUTO_INCREMENT PRIMARYKEY,email varchar(2000),password varchar(2000),username varchar(1000));
 create table diary(userid int ,date date, titile varchar(2000),content varchar(2000)); 
 ```
->sorry for the spelling mistakes :')...
+>sorry for the spelling mistakes.. too far gone to correct them now :')...
 
 Host the index.js file by using:
 ```
@@ -56,4 +56,4 @@ Nothing much left really.. Use:
 ```
 npm start
 ```
-in the command prompt ats the project directory and you should have your app Open and Ready to Go.
+in the command prompt at the project directory and you should have your app Open and Ready to Go.
